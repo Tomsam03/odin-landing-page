@@ -1,0 +1,7 @@
+.header{
+    background-color: rgb(63, 63, 63);
+    color: whitesmoke;
+    display: flex;
+    padding: 15px;
+    width:100%;
+}
